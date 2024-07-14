@@ -27,7 +27,7 @@ This is the general structure of the 4 way traffic lane with traffic lights and 
                        |   |   |         
                        |   |   |         
 
-# The Worrking of the Code
+# Understanding of the Code
 Consider that you are a traffic lights officer and you need to manage the traffic lights all day.
 
 The general instructions that given to you are
