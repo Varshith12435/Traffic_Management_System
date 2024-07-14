@@ -5,9 +5,9 @@ This is my first project as a student which is helpful to automate the blinking 
 
 Ther are mainly two pre defined functions used in the code.
 
-      1.Sleep Function - sleep()
+      1.Sleep Function - sleep() from <stdlib.h> header file
   
-      2.Clear Screen - system("clear")
+      2.Clear Screen - system("clear") from <unistd.h> header file
 
 This is the general structure of the 4 way traffic lane with traffic lights and signals.
 
